@@ -13,7 +13,7 @@ Following are the commands i used to
  svn co https://svn.riouxsvn.com/luintelapp --username luintelshradha
  svn add makefile
  svn add MyApplication.java
- svn commit -m "first commit"
+ svn commit -m "First commit"
 ```
 
 `svn commit` updates the source code to the server, so when i checked the server, i saw my commit there. 

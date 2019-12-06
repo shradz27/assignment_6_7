@@ -20,8 +20,12 @@ Following are the commands i used to
 <br/><br/>
 ![Screenshot of remote repo](screenshot.png)
 
+
+
 ## SVN Log
+I have added the logs of the svn commands in the following GIST file.
 <a href="https://gist.github.com/shradz27/8ed4fc6a2e07a8afa2f6c824429348e6">Link to SVN logs gist</a>
 
 ## GIT Log
+Similary, here is the log file that contains my git command and the output logs.
 <a href="https://gist.github.com/shradz27/13983ccbcc979fdecc7faae9494db76d">Link to GIT logs gist</a>

@@ -1,3 +1,19 @@
+## Java Program
+I have included a java file named `MyApplication` which has following functions
+
+- greetUser() : greets user
+- getVersion() : prints the version of the app
+- getAuthorName() : prints the name of the author
+
+I have included the `makefile` which includes following commands 
+  - `run` : uses java compiler to build the class file and calls all the methods of `MyApplication` class
+  - `clean` : command deletes the class file
+
+### makefile commands
+`make run`<br>
+`make clean`
+
+
 # SVN Server
 Since SVN system is based on centralized model where source code and it's history is saved in server, We need server to host our application's repository. I found a <a href="https://riouxsvn.com">free svn repository hosting service</a> so created an account and got my server url as below
 

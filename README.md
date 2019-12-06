@@ -1,3 +1,25 @@
+# Assignment 6
+I have written the python script to parse the csv file and write it to the sqlite database. 
+Following is the output of the script.
+
+    organization metrics
+    Average organization value: 4.60
+    Minimum organization value: 3.00
+    Maximum organization value: 5.00
+
+    Enthusiasm metrics
+    Average enthusiasm value: 4.47
+    Minimum enthusiasm value: 3.00
+    Maximum enthusiasm value: 5.00
+
+    Presentation value metrics
+    Average presentation value: 4.33
+    Minimum presentation value: 3.00
+    Maximum presentation value: 5.00
+
+<a href="https://gist.github.com/shradz27/8f540173bdc862621585c1024f21ba75">Please find the source code in this gist file.</a>
+
+# Assignment 7
 ## Java Program
 I have included a java file named `MyApplication` which has following functions
 
